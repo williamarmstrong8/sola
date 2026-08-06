@@ -13,9 +13,12 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@chat-adapter/state-memory": "^4.36.0",
+    "@chat-adapter/x": "^4.36.0",
     "@vercel/connect": "0.4.2",
     "ai": "^7.0.34",
-    "eve": "^0.27.6",
+    "chat": "^4.36.0",
+    "eve": "^0.30.8",
     "zod": "4.4.3"
   },
   "devDependencies": {
